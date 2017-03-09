@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String constant = "test value";
+    public static final String constant = "test value1";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
